@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Gustavo Monteiro</h1>
-<h3 align="center">Sou um tech Lover que valoriza muito os momentos em família e de aprender coisas novas. Sou Desenvolvedor Front-end que não para de aprender e em constante prática para se tornar cada vez mais eficiente.</h3>
+<h3 align="center">Sou um Tech Lover que valoriza muito os momentos em família e de aprender coisas novas. Sou Desenvolvedor Front-end que não para de aprender e em constante prática para se tornar cada vez mais eficiente.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
