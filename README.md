@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, Sou Gustavo Monteiro</h1>
 <h3 align="center">Sou um tech Lover que valoriza muito os momentos em família e de aprender coisas novas. Sou Desenvolvedor Front-end que não para de aprender e em constante prática para se tornar cada vez mais eficiente.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomonteirodev&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomonteirodev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavomonteirodev" alt="gustavomonteirodev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavomonteirodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavomonteirodev" height="30" width="40" /></a>
@@ -19,3 +15,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gustavomonteirodev&count_private=true&show_icons=true&include_all_commits=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomonteirodev&" alt="gustavomonteirodev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomonteirodev&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomonteirodev" /> </p>
+
