@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavomonteirodev&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomonteirodev" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gustavomonteirodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomonteirodev/)](https://www.linkedin.com/in/gabrielpasquantonio/)
+[![Linkedin Badge](https://img.shields.io/badge/-gustavomonteirodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomonteirodev/)](https://www.linkedin.com/in/gustavomonteirodev/)
 [![Gmail Badge](https://img.shields.io/badge/-monteirocontacto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monteirocontacto@gmail.com)](mailto:monteirocontacto@gmail.com)
   
 
