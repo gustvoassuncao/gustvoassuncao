@@ -11,7 +11,7 @@
   </a>
 </p>
 <img align="right" width="250px" src="./bio-image.svg" />
-<h3> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h3>
+<h4> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
 
 <h3 align="left">⚡ Tecnologias:</h3>
 
