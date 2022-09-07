@@ -10,12 +10,12 @@
     <img src="https://img.shields.io/github/followers/gustavomonteirodev?label=Follow&style=social" />
   </a>
 </p>
-<img align="right" width="270px" src="./bio-image.svg" />
-<h4> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
+<img align="right" width="320px" src="./bio-image.svg" />
+<h3> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h3>
 
-<h3 align="left">⚡ Tecnologias:</h3>
+<h2 align="left">⚡ Tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs&perline=5)](https://skillicons.dev)
 
 <div align="left">
 <img
