@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/gustavomonteirodev?label=Follow&style=social" />
   </a>
 </p>
-<img align="right" width="250px" src="./bio-image.svg" />
+<img align="right" width="270px" src="./bio-image.svg" />
 <h4> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
 
 <h3 align="left">⚡ Tecnologias:</h3>
