@@ -10,18 +10,19 @@
     <img src="https://img.shields.io/github/followers/gustavomonteirodev?label=Follow&style=social" />
   </a>
 </p>
-<img align="right" width="320px" src="./bio-image.svg" />
-<h3> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h3>
+<img align="right" width="300px" src="./bio-image.svg" />
+<h4> 🚀  I’m a Front-end Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
 
 <h2 align="left">⚡ Tecnologias:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs&perline=5)](https://skillicons.dev)
 
-<div align="left">
+<div align="center">
 <img
-  align="left"
+  align="center"
   height="165"
   src="https://github-readme-stats.vercel.app/api?username=gustavomonteirodev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
+</div>
 
 ![Snake animation](https://github.com/gustavomonteirodev/gustavomonteirodev/blob/output/github-contribution-grid-snake.svg) 
