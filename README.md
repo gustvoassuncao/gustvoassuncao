@@ -15,7 +15,7 @@
 
 <h2 align="left">⚡ Tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs,mysql,visualstudio,vscode,git&perline=7)](https://skillicons.dev)
 
 <div align="center">
 <img
