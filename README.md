@@ -15,7 +15,7 @@
 
 <h2 align="left">⚡ Technologies/Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs,mysql,visualstudio,figma,vscode,git,sass&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs,mysql,visualstudio,figma,elixir,git,sass&perline=8)](https://skillicons.dev)
 
 <h2></h2>
 <img
