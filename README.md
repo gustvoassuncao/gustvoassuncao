@@ -13,9 +13,9 @@
 <img align="right" width="300px" src="./bio-image.svg" />
 <h4> 🚀  I’m a Full Stack Developer who is constantly learning to become even more efficient. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
 
-<h2 align="left">⚡ Technologies/Tools:</h2>
+<h2 align="left">⚡ Tech/Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs,mysql,visualstudio,figma,elixir,git,sass&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,styledcomponents,jest,nodejs,materialui,react,nextjs,mysql,figma,git,sass&perline=7)](https://skillicons.dev)
 
 <h2></h2>
 <img
