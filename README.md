@@ -11,7 +11,7 @@
   </a>
 </p>
 <img align="right" width="300px" src="./bio-image.svg" />
-<h4> 🚀  I started my career as a fullstack developer and right now I've started to work as a DevOps Engineer. I speak english fluently. I like to learn new things, to watch animes, and talk to people.</h4>
+<h4> 🚀  Before I started in DevOps Engineering I coded a lot as a javascript fullstack. I speak english, portuguese and a lit bit of spanish. I like to learn new things, to watch animes, and talk to people.</h4>
 
 <h2 align="left">⚡ Tech/Tools:</h2>
 
