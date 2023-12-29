@@ -6,12 +6,12 @@
   <a href="https://www.linkedin.com/in/gustavomonteirodev">
     <img src="https://img.shields.io/badge/-Gustavo%20Monteiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomonteirodev" />
   </a>
-  <a href="https://github.com/gustavomonteirodev/?tab=follow">
-    <img src="https://img.shields.io/github/followers/gustavomonteirodev?label=Follow&style=social" />
+  <a href="https://github.com/gustvoassuncao/?tab=follow">
+    <img src="https://img.shields.io/github/followers/gustvoassuncao?label=Follow&style=social" />
   </a>
 </p>
 <img align="right" width="300px" src="./bio-image.svg" />
-<h4> 🚀  Before I started in DevOps Engineering I coded a lot as a javascript fullstack. I speak english, portuguese and a lit bit of spanish. I like to learn new things, to watch animes, and talk to people.</h4>
+<h4> 🚀  Before I started in DevOps Engineering I coded a lot as a javascript fullstack. I speak english, portuguese and a little bit of spanish. I like to learn new things, to watch animes, and talk to people.</h4>
 
 <h2 align="left">⚡ Tech/Tools:</h2>
 
