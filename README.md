@@ -3,8 +3,8 @@
   <a href="mailto:monteirocontacto@gmail.com">
     <img src="https://img.shields.io/badge/-monteirocontacto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monteirocontacto@gmail.com" />
   </a>
-  <a href="https://www.linkedin.com/in/gustavomonteirodev">
-    <img src="https://img.shields.io/badge/-Gustavo%20Monteiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomonteirodev" />
+  <a href="https://www.linkedin.com/in/gustvoassuncao">
+    <img src="https://img.shields.io/badge/-Gustavo%20Monteiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustvoassuncao" />
   </a>
   <a href="https://github.com/gustvoassuncao/?tab=follow">
     <img src="https://img.shields.io/github/followers/gustvoassuncao?label=Follow&style=social" />
@@ -20,7 +20,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=gustavomonteirodev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=gustvoassuncao&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 
-![Snake animation](https://github.com/gustavomonteirodev/gustavomonteirodev/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/gustvoassuncao/gustvoassuncao/blob/output/github-contribution-grid-snake.svg) 
