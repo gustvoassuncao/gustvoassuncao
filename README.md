@@ -23,4 +23,4 @@
   src="https://github-readme-stats.vercel.app/api?username=gustvoassuncao&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 
-![Snake animation](https://github.com/gustvoassuncao/gustavomonteirodev/blob/output/github-contribution-grid-snake.svg) 
+![snake animation](https://github.com/gustvoassuncao/gustvoassuncao/blob/output/github-contribution-grid-snake2.svg)
