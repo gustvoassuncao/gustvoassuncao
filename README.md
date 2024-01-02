@@ -15,7 +15,7 @@
 
 <h2 align="left">⚡ Tech/Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,jenkins,vagrant,ansbile,zabbix,docker,js,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,jenkins,docker,js,git&perline=7)](https://skillicons.dev)
 
 <img
   align="left"
