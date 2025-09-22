@@ -11,7 +11,7 @@
   </a>
 </p>
 <img align="right" width="300px" src="./bio-image.svg" />
-<h4> 🚀  As I usually say I work with IT, I don't know what kind of challenge will come, but I like to work with the backend part and DevOps. I speak English, Portuguese, and a little bit of Spanish. I like to learn new things, watch anime, and talk to people.</h4>
+<h4> Lost the other account I have, so I'll just use this one. 🚀  As I usually say I work with IT, I don't know what kind of challenge will come, but I like to work with the backend part and DevOps. I speak English, Portuguese, and a little bit of Spanish. I like to learn new things, watch anime, and talk to people.</h4>
 
 <h2 align="left">⚡ Tech/Tools:</h2>
 
